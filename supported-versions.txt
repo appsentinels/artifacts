@@ -1,0 +1,5 @@
+NGINX version supported
+
+OS-Version	nginx-version 	Download link
+ubuntu-18.04	1.10.3		https://github.com/appsentinels/artifacts/blob/master/ubuntu-18.04-nginx-1.10.3.tar.gz
+ubuntu-18.04	1.18.0		https://github.com/appsentinels/artifacts/blob/master/ubuntu-18.04-nginx-1.18.0.tar.gz
